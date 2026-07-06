@@ -19,6 +19,6 @@ make the behavior of the agents more complex.
 Find some demo files in [./data/demo](./data/demo).
 
 ## Usage
-After installing the dependencies from requirements.txt, use the following script to generate your saturated signal:
+After installing the dependencies from requirements.txt, and the src package by `pip install -e .` in the repo root,  use the following script to generate your saturated signal:
 (Yet to be parametrised)
 `(.venv) agentic_saturator$ python -m scripts.simple_io`
